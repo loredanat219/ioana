@@ -1,2 +1,2 @@
-// alert('dont worry');
-// window.alert('be happy')
+alert('dont worry');
+window.alert('be happy')
